@@ -1,0 +1,5 @@
+selenium
+opencv-python-headless
+numpy
+tensorflow
+google-cloud-language
